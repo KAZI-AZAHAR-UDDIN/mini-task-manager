@@ -195,7 +195,7 @@ npm run dev                # Runs frontend on http://localhost:3000
 ---
 
 
-## PART 2: Explain Your Thinking
+##  Explain Thought Process
 
 ###  Why did you choose this project structure?
 
